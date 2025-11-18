@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi! I'm Wei-Hong 👋
 
-<!--
-**linweihong-alvin/linweihong-alvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Software engineer with 3+ years of experience at TSMC
+- 🌐 Focused on full-stack development, system design, and cloud infrastructure
+- 🎓 M.S. in Information Systems @ Northeastern University (Boston)
 
-Here are some ideas to get you started:
+🔍 Check out some of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Cloud-Native Web Application](YOUR_REPO_LINK) – Spring Boot + AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling)
+- [Enterprise Procurement & Vendor Management System](YOUR_REPO_LINK) – Java (Swing), multi-organization workflow
+- [Expense Tracker Web App](YOUR_REPO_LINK) – React + Node/Express + MongoDB
+- [Flashcard Vocabulary App](YOUR_REPO_LINK) – React SPA, interactive UI
+- [Selenium Automation Testing Project](YOUR_REPO_LINK) – Java + Selenium end-to-end tests
+
+😊 I enjoy solving real-world problems with scalable architecture, automation, and clean code.
+
+📫 How to reach me:  
+[LinkedIn](YOUR_LINKEDIN_URL) · [Email Me](mailto:YOUR_EMAIL@xxx.com)
+
+---
+
+## 🛠 Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
