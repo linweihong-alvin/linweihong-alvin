@@ -6,11 +6,11 @@
 
 🔍 Check out some of my projects:
 
-- [Cloud-Native Web Application (terraform)](https://github.com/alvincloud/tf-aws-infra) – AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling)
-- [Cloud-Native Web Application](https://github.com/alvincloud/webapp) – Spring Boot
-- [Cloud-Native Serverless Lambda](https://github.com/alvincloud/serverless) – Java
+- [Cloud-Native Web Application (terraform)](https://github.com/alvincloud/tf-aws-infra) – AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling, Packer, Cloudwatch)
+- [Cloud-Native Web Application](https://github.com/alvincloud/webapp) – Spring Boot, Java
+- [Cloud-Native Serverless Lambda](https://github.com/alvincloud/serverless) – Java, DynamoDB
 - [Enterprise Procurement & Vendor Management System](YOUR_REPO_LINK) – Java (Swing), multi-organization workflow
-- [Expense Tracker Web App](YOUR_REPO_LINK) – React + Node/Express + MongoDB
+- [Expense Tracker Web App](YOUR_REPO_LINK) – MERN stack (MongoDB, Express, React, Node.js)
 - [Flashcard Vocabulary App](YOUR_REPO_LINK) – React SPA, interactive UI
 - [Selenium Automation Testing Project](YOUR_REPO_LINK) – Java + Selenium end-to-end tests
 
