@@ -9,10 +9,10 @@
 - [Cloud-Native Web Application (terraform)](https://github.com/alvincloud/tf-aws-infra) – AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling, Packer, Cloudwatch)
 - [Cloud-Native Web Application](https://github.com/alvincloud/webapp) – Spring Boot, Java
 - [Cloud-Native Serverless Lambda](https://github.com/alvincloud/serverless) – Java, DynamoDB
-- [Enterprise Procurement & Vendor Management System](YOUR_REPO_LINK) – Java (Swing), multi-organization workflow
-- [Expense Tracker Web App](YOUR_REPO_LINK) – MERN stack (MongoDB, Express, React, Node.js)
-- [Flashcard Vocabulary App](YOUR_REPO_LINK) – React SPA, interactive UI
-- [Selenium Automation Testing Project](YOUR_REPO_LINK) – Java + Selenium end-to-end tests
+- [Enterprise Procurement & Vendor Management System](https://github.com/IsaacTai13/procurement_workflow_system) – Java (Swing), multi-organization workflow
+- [Expense Tracker Web App](YOUR_REPO_LINK) – MERN stack (MongoDB, Express, React, Node.js), interactive UI
+- [Itinerary_plan_recommendation_app](https://github.com/linweihong-alvin/itinerary_plan_recommendation_app) – Android travel app (Java, XML, Google Maps API) with PHP/MySQL backend and ML-based itinerary recommendations (Weka J48, SMOTE)
+
 
 😊 I enjoy solving real-world problems with scalable architecture, automation, and clean code.
 
