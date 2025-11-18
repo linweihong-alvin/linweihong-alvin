@@ -7,10 +7,10 @@
 🔍 Check out some of my projects:
 
 - [Cloud-Native Web Application (terraform)](https://github.com/alvincloud/tf-aws-infra) – AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling, Packer, Cloudwatch)
-- [Cloud-Native Web Application](https://github.com/alvincloud/webapp) – Spring Boot, Java
+- [Cloud-Native Web Application](https://github.com/alvincloud/webapp) – Spring Boot, Java, RestFul API
 - [Cloud-Native Serverless Lambda](https://github.com/alvincloud/serverless) – Java, DynamoDB
 - [Enterprise Procurement & Vendor Management System](https://github.com/IsaacTai13/procurement_workflow_system) – Java (Swing), multi-organization workflow
-- [Expense Tracker Web App](YOUR_REPO_LINK) – MERN stack (MongoDB, Express, React, Node.js), interactive UI
+- [Modern Jewelry Shop](https://github.com/ZeningTeng/group-assignment) – MERN stack (MongoDB, Express, React, Node.js), interactive UI
 - [Itinerary_plan_recommendation_app](https://github.com/linweihong-alvin/itinerary_plan_recommendation_app) – Android travel app (Java, XML, Google Maps API) with PHP/MySQL backend and ML-based itinerary recommendations (Weka J48, SMOTE)
 
 
