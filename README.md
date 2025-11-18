@@ -6,7 +6,9 @@
 
 🔍 Check out some of my projects:
 
-- [Cloud-Native Web Application](YOUR_REPO_LINK) – Spring Boot + AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling)
+- [Cloud-Native Web Application](https://github.com/alvincloud/tf-aws-infra) – Spring Boot + AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling)
+- [Cloud-Native Web Application](https://github.com/alvincloud/webapp) – Spring Boot + AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling)
+- [Cloud-Native Web Application](https://github.com/alvincloud/tf-aws-infra) – Spring Boot + AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling)
 - [Enterprise Procurement & Vendor Management System](YOUR_REPO_LINK) – Java (Swing), multi-organization workflow
 - [Expense Tracker Web App](YOUR_REPO_LINK) – React + Node/Express + MongoDB
 - [Flashcard Vocabulary App](YOUR_REPO_LINK) – React SPA, interactive UI
@@ -15,7 +17,7 @@
 😊 I enjoy solving real-world problems with scalable architecture, automation, and clean code.
 
 📫 How to reach me:  
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email Me](mailto:YOUR_EMAIL@xxx.com)
+[LinkedIn](https://www.linkedin.com/in/weihong01/) · [Email Me](mailto:lin.weih@northeastern.com)
 
 ---
 
