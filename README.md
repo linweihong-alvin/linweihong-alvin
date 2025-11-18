@@ -1,4 +1,4 @@
-# Hi! I'm Wei-Hong 👋
+## Hi! I'm Wei-Hong 👋
 
 - 💻 Software engineer with 3+ years of experience at TSMC
 - 🌐 Focused on full-stack development, system design, and cloud infrastructure
