@@ -16,8 +16,7 @@
 
 😊 I enjoy solving real-world problems with scalable architecture, automation, and clean code.
 
-📫 How to reach me:  
-[LinkedIn](https://www.linkedin.com/in/weihong01/) · [Email Me](mailto:lin.weih@northeastern.com)
+📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/weihong01/) · [Email Me](mailto:lin.weih@northeastern.com)
 
 ---
 
