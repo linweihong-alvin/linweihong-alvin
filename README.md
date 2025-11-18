@@ -10,7 +10,7 @@
 - [Cloud-Native Web Application](https://github.com/alvincloud/webapp) – Spring Boot, Java, RestFul API
 - [Cloud-Native Serverless Lambda](https://github.com/alvincloud/serverless) – Java, DynamoDB
 - [Enterprise Procurement & Vendor Management System](https://github.com/IsaacTai13/procurement_workflow_system) – Java (Swing), multi-organization workflow
-- [Modern Jewelry Shop](https://github.com/ZeningTeng/group-assignment) – MERN stack (MongoDB, Express, React, Node.js), interactive UI
+- [Modern Jewelry Shop](https://github.com/ZeningTeng/group-assignment) – MERN stack (MongoDB, Express, React, Node.js), JavaScript, HTML, CSS, Bootstrap, interactive UI
 - [Itinerary_plan_recommendation_app](https://github.com/linweihong-alvin/itinerary_plan_recommendation_app) – Android travel app (Java, XML, Google Maps API) with PHP/MySQL backend and ML-based itinerary recommendations (Weka J48, SMOTE)
 
 
