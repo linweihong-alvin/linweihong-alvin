@@ -8,7 +8,7 @@
 
 - [Cloud-Native Web Application](https://github.com/alvincloud/tf-aws-infra) – Spring Boot + AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling)
 - [Cloud-Native Web Application](https://github.com/alvincloud/webapp) – Spring Boot + AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling)
-- [Cloud-Native Web Application](https://github.com/alvincloud/tf-aws-infra) – Spring Boot + AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling)
+- [Cloud-Native Web Application](https://github.com/alvincloud/serverless) – Spring Boot + AWS (Terraform, CI/CD, RDS, ALB, Auto Scaling)
 - [Enterprise Procurement & Vendor Management System](YOUR_REPO_LINK) – Java (Swing), multi-organization workflow
 - [Expense Tracker Web App](YOUR_REPO_LINK) – React + Node/Express + MongoDB
 - [Flashcard Vocabulary App](YOUR_REPO_LINK) – React SPA, interactive UI
